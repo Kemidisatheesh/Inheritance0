@@ -30,6 +30,8 @@ public:
 
 int main()
 {
+   D obj;
+   obj.A();
     cout << sizeof(A) << endl;
     cout << sizeof(B) << endl;
     cout << sizeof(C) << endl;
